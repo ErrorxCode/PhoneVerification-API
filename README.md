@@ -37,7 +37,7 @@ dependencies {
 	    implementation 'com.github.ErrorxCode:PhoneVerification-API:3.0'
 }
 ```
-[![](https://jitpack.io/v/ErrorxCode/OTP-Verification-Api.svg)](https://jitpack.io/#ErrorxCode/OTP-Verification-Api)
+[![](https://jitpack.io/v/ErrorxCode/PhoneVerification-API.svg)](https://jitpack.io/#ErrorxCode/PhoneVerification-API)
 
 
 
